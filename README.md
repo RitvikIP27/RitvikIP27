@@ -40,9 +40,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitvikIP27&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=30" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RitvikIP27&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=RitvikIP27&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
 
 
 ---
