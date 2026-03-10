@@ -14,8 +14,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,1
 
 
-<h1 align="center">Hi 👋, I'm Ritvik</h1>
-<h3 align="center">DevOps Engineer and Infrastrucutre specialist ☁️🐳</h3>
+<h3 align="center">DevOps Engineer and Infrastrucutre specialist</h3>
 
 ---
 
