@@ -93,7 +93,7 @@ Fully automated DevSecOps pipeline — SAST, SCA and DAST integrated at every st
 </td>
 <td width="50%" valign="top">
 
-### [SkillPulse — GitOps Platform](https://github.com/RitvikIP27/KubernetesDeployment)
+### [SkillPulse — GitOps Platform](https://github.com/RitvikIP27/KubernesDeployment.git)
 
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
